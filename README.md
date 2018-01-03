@@ -1,2 +1,5 @@
-# ionic-customLoader
-An exampla of custom loader in ionic app
+![View this](src/assets/gif.gif)
+
+# To run:
+* > npm install
+* > ionic serve -l (with live reload)
